@@ -14,10 +14,6 @@ AEMIS is the only rotation engine that parses and executes real SimulationCraft 
 | Tool | SimC APL accuracy | Classes | Hero Specs |
 |---|---|---|---|
 | AEMIS | 1–13% from max | 13 | All 80 |
-| Lumen | 15–40% from max | Partial | Partial |
-| Phoenix | 15–40% from max | Partial | Partial |
-| NNR | 15–40% from max | Partial | Partial |
-
 ---
 
 ## Detection & Safety
