@@ -88,7 +88,7 @@ It evaluates **SimulationCraft Action Priority Lists (APL)** against your live c
 ## FAQ
 
 **How is AEMIS different from other WoW rotation bots?**  
-AEMIS is the only rotation engine that parses and executes real SimulationCraft APLs against live game state. Most competitors use hard-coded priority lists that drift 15–40% from theoretical maximum. AEMIS benchmarks at 1–13%.
+AEMIS is the only rotation engine that parses and executes real SimulationCraft APLs against live game state.AEMIS benchmarks at 1–13%.
 
 **Is AEMIS detectable?**  
 AEMIS runs as a fully isolated service. No DLL injection, no game hooks, no native standalone addons to be dedected, it uses offical addons listed on CurseForge.
