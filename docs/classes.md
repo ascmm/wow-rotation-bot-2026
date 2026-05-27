@@ -15,7 +15,8 @@ AEMIS supports every playable class and specialization in World of Warcraft Midn
 | Spec | Hero Trees |
 |---|---|
 | Havoc | Aldrachi Reaver · Fel-Scarred |
-| Vengeance | Aldrachi Reaver · Fel-Scarred |
+| Vengeance | Aldrachi Reaver · Annihilator |
+| Devourer | Annihilator · Void-Scarred |
 
 ## Druid
 
@@ -31,16 +32,16 @@ AEMIS supports every playable class and specialization in World of Warcraft Midn
 | Spec | Hero Trees |
 |---|---|
 | Devastation | Flameshaper · Scalecommander |
-| Preservation | Flameshaper · Chronowarden |
-| Augmentation | Scalecommander · Chronowarden |
+| Preservation | Chronowarden · Flameshaper |
+| Augmentation | Chronowarden · Scalecommander |
 
 ## Hunter
 
 | Spec | Hero Trees |
 |---|---|
-| Beast Mastery | Pack Leader · Sentinel |
+| Beast Mastery | Dark Ranger · Pack Leader |
 | Marksmanship | Dark Ranger · Sentinel |
-| Survival | Pack Leader · Dark Ranger |
+| Survival | Pack Leader · Sentinel |
 
 ## Mage
 
@@ -54,23 +55,23 @@ AEMIS supports every playable class and specialization in World of Warcraft Midn
 
 | Spec | Hero Trees |
 |---|---|
-| Brewmaster | Master of Harmony · Conduit of the Celestials |
-| Mistweaver | Master of Harmony · Conduit of the Celestials |
-| Windwalker | Shado-Pan · Conduit of the Celestials |
+| Brewmaster | Master of Harmony · Shado-Pan |
+| Mistweaver | Conduit of the Celestials · Master of Harmony |
+| Windwalker | Conduit of the Celestials · Shado-Pan |
 
 ## Paladin
 
 | Spec | Hero Trees |
 |---|---|
 | Holy | Herald of the Sun · Lightsmith |
-| Protection | Herald of the Sun · Lightsmith |
-| Retribution | Templar · Herald of the Sun |
+| Protection | Lightsmith · Templar |
+| Retribution | Herald of the Sun · Templar |
 
 ## Priest
 
 | Spec | Hero Trees |
 |---|---|
-| Discipline | Archon · Oracle |
+| Discipline | Oracle · Voidweaver |
 | Holy | Archon · Oracle |
 | Shadow | Archon · Voidweaver |
 
@@ -79,15 +80,15 @@ AEMIS supports every playable class and specialization in World of Warcraft Midn
 | Spec | Hero Trees |
 |---|---|
 | Assassination | Deathstalker · Fatebound |
-| Outlaw | Deathstalker · Trickster |
-| Subtlety | Deathstalker · Fatebound |
+| Outlaw | Fatebound · Trickster |
+| Subtlety | Deathstalker · Trickster |
 
 ## Shaman
 
 | Spec | Hero Trees |
 |---|---|
 | Elemental | Farseer · Stormbringer |
-| Enhancement | Totemic · Stormbringer |
+| Enhancement | Stormbringer · Totemic |
 | Restoration | Farseer · Totemic |
 
 ## Warlock
@@ -96,14 +97,14 @@ AEMIS supports every playable class and specialization in World of Warcraft Midn
 |---|---|
 | Affliction | Hellcaller · Soul Harvester |
 | Demonology | Diabolist · Soul Harvester |
-| Destruction | Hellcaller · Diabolist |
+| Destruction | Diabolist · Hellcaller |
 
 ## Warrior
 
 | Spec | Hero Trees |
 |---|---|
 | Arms | Colossus · Slayer |
-| Fury | Colossus · Slayer |
+| Fury | Mountain Thane · Slayer |
 | Protection | Colossus · Mountain Thane |
 
 ---
