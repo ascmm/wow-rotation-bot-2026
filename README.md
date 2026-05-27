@@ -26,10 +26,10 @@ It evaluates **SimulationCraft Action Priority Lists (APL)** against your live c
 
 | Feature | AEMIS | Competitors |
 |---|---|---|
-| All 13 classes | ✅ | ✅ |
+| All 13 classes | ✅ |❌ |
 | Hero spec support (all 80) | ✅ | ✅ |
 | Fully isolated service (no DLL/no native hooks) | ✅ | ❌ |
-| Instant Discord key delivery | ✅ | Manual |
+| Instant Discord key delivery | ✅ | ❌ |
 | Closed project (quality cap) | ✅ 50 slots | Unlimited |
 
 ### Engine Highlights
@@ -114,7 +114,7 @@ A waiting list activates. Slots do not reopen for returning members.
 
 ## Keywords
 
-`wow rotation bot` · `wow bot 2026` · `simc rotation` · `single button assist` · `wow midnight` · `wow m+ bot` · `wow raid bot` · `simulationcraft` · `wow dps assist` · `wow pve bot` · `wow pvp bot` · `lumen alternative` · `phoenix dps alternative` · `nnr wow` · `wow rotation helper` · `best wow bot` · `wow automation` · `wow 13 classes` · `hero spec rotation`
+`wow rotation bot` · `wow bot 2026` · `simc rotation` · `single button assist` · `wow midnight` · `wow m+ bot` · `wow raid bot` · `simulationcraft` · `wow dps assist` · `wow pve bot` · `wow pvp bot` · `phoenix dps alternative` · `nnr wow` · `wow rotation helper` · `best wow bot` · `wow automation` · `wow 13 classes` · `hero spec rotation`
 
 ---
 
