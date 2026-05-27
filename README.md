@@ -26,10 +26,9 @@ It evaluates **SimulationCraft Action Priority Lists (APL)** against your live c
 
 | Feature | AEMIS | Competitors |
 |---|---|---|
-| SimC APL accuracy (vs. theoretical max) | **1–13%** | 15–40% |
-| All 13 classes | ✅ | Partial |
-| Hero spec support (all 80) | ✅ | Rare |
-| Fully isolated service (no DLL/hooks) | ✅ | ❌ |
+| All 13 classes | ✅ | ✅ |
+| Hero spec support (all 80) | ✅ | ✅ |
+| Fully isolated service (no DLL/no native hooks) | ✅ | ❌ |
 | Instant Discord key delivery | ✅ | Manual |
 | Closed project (quality cap) | ✅ 50 slots | Unlimited |
 
